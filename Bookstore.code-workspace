@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../CustomerLike-240626"
 		}
 	],
 	"settings": {}
