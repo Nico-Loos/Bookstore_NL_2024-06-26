@@ -3,16 +3,18 @@
 /// </summary>
 enum 50100 "BSB Book Option"
 {
+    Extensible = true;
+
     value(0; " ")
     {
         Caption = 'None';
     }
     value(1; "Hardcover")
     {
-        Caption = 'Notice';
+        Caption = 'Hardcover';
     }
     value(2; "Paperback")
     {
-        Caption = 'Notice with Amounts';
+        Caption = 'Paperback';
     }
 }
