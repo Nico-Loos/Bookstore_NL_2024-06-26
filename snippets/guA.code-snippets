@@ -31,7 +31,7 @@
             "\t\t\tUpdateStatus();",
             "\tend;",
             "",
-            "\t//TODO: remove the following subscriber if not necessary to run",
+            "\t//[x]: remove the following subscriber if not necessary to run",
             "\t[EventSubscriber(ObjectType::Codeunit, Codeunit::\"Guided Experience\", 'OnReRunOfCompletedAssistedSetup', '', false, false)]",
             "\tlocal procedure OnReRunOfCompletedSetup(ExtensionID: Guid; ObjectType: ObjectType; ObjectID: Integer; var Handled: Boolean)",
             "\tvar",
