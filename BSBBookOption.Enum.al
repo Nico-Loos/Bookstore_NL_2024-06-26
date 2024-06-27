@@ -9,11 +9,11 @@ enum 50100 "BSB Book Option"
     {
         Caption = 'None';
     }
-    value(1; "Hardcover")
+    value(1; Hardcover)
     {
         Caption = 'Hardcover';
     }
-    value(2; "Paperback")
+    value(2; Paperback)
     {
         Caption = 'Paperback';
     }

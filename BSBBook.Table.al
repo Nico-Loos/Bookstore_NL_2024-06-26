@@ -54,12 +54,12 @@ table 50100 "BSB Book"
         }
         field(10; Author; Text[50])
         {
-            Caption = 'Autor';
+            Caption = 'Author';
 
         }
         field(11; "Author Provision %"; Decimal)
         {
-            Caption = 'Autor Provision %';
+            Caption = 'Author Provision %';
             MinValue = 0;
             MaxValue = 100;
             DecimalPlaces = 2;
@@ -113,7 +113,13 @@ table 50100 "BSB Book"
     end;
 
     trigger OnDelete()
+    var
+        IsHandled: Boolean;
     begin
+        OnBeforeOnDelete(Rec, IsHandled);
+        if IsHandled then
+            exit;
+
         Error(OnDeleteBookErr);
     end;
 
@@ -168,5 +174,10 @@ table 50100 "BSB Book"
     begin
         if BSBBook.get(BookNo) then
             ShowCard(BSBBook);
+    end;
+
+    [IntegrationEvent(false, false)]
+    local procedure OnBeforeOnDelete(var Rec: Record "BSB Book"; var IsHandled: Boolean)
+    begin
     end;
 }

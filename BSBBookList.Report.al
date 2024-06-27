@@ -57,7 +57,7 @@ report 50100 "BSB Book List"
         {
             Type = RDLC;
             LayoutFile = 'BSBBookList.Report.rdlc';
-            Caption = 'Cpation Book List';
+            Caption = 'Caption Book List';
             Summary = 'Summary Book List';
         }
     }
