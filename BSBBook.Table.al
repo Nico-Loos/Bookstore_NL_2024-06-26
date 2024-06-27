@@ -54,12 +54,12 @@ table 50100 "BSB Book"
         }
         field(10; Author; Text[50])
         {
-            Caption = 'Autor';
+            Caption = 'Author';
 
         }
         field(11; "Author Provision %"; Decimal)
         {
-            Caption = 'Autor Provision %';
+            Caption = 'Author Provision %';
             MinValue = 0;
             MaxValue = 100;
             DecimalPlaces = 2;
