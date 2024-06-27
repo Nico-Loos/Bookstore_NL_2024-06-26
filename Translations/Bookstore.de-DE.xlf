@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="de-DE" original="Bookstore.g.xlf" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
@@ -9,401 +10,711 @@
         <trans-unit id="Table 3249233238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book</source>
           <target state="translated">Buch</target>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="Bookstore.g.xlf" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft"></tool>
+    </header>
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3249233238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book</source>
+          <target>Buch</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - NamedType 2141700304" size-unit="char" translate="yes" xml:space="preserve">
           <source>Nicht löschen!</source>
+<<<<<<< Updated upstream
           <target state="translated">Nicht löschen!</target>
+=======
+          <target>Nicht löschen!</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - NamedType OnDeleteBookErr</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 2842729223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Author</source>
+<<<<<<< Updated upstream
           <target state="translated">Autor</target>
+=======
+          <target>Autor</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Author - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 2660161043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Author Provision %</source>
+<<<<<<< Updated upstream
           <target state="translated">Autorprovision %</target>
+=======
+          <target>Autorprovision %</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Author Provision % - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Blocked</source>
+<<<<<<< Updated upstream
           <target state="translated">Gesperrt</target>
+=======
+          <target>Gesperrt</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Blocked - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 1249475212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Created</source>
+<<<<<<< Updated upstream
           <target state="translated">Erstellt am</target>
+=======
+          <target>Erstellt am</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Created - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 3598678408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Date op Publishing</source>
+<<<<<<< Updated upstream
           <target state="translated">Veröffentlichungsdatum</target>
+=======
+          <target>Veröffentlichungsdatum</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Date of Publishing - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Description</source>
+<<<<<<< Updated upstream
           <target state="translated">Beschreibung</target>
+=======
+          <target>Beschreibung</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Description - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 871310557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Edition No.</source>
+<<<<<<< Updated upstream
           <target state="translated">Editionsnr.</target>
+=======
+          <target>Editionsnr.</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Edition No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 1328823306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>ISBN</source>
+<<<<<<< Updated upstream
           <target state="translated">ISBN</target>
+=======
+          <target>ISBN</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field ISBN - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 2393253273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Last Date Modified</source>
+<<<<<<< Updated upstream
           <target state="translated">Korrigiert am</target>
+=======
+          <target>Korrigiert am</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Last Date Modified - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>No.</source>
+<<<<<<< Updated upstream
           <target state="translated">Nr.</target>
+=======
+          <target>Nr.</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 2755520618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>No. of Pages</source>
+<<<<<<< Updated upstream
           <target state="translated">Anzahl Seiten</target>
+=======
+          <target>Anzahl Seiten</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field No. of Pages - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 1180181476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Search Description</source>
+<<<<<<< Updated upstream
           <target state="translated">Suchbegriff</target>
+=======
+          <target>Suchbegriff</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Search Description - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3249233238 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Type</source>
+<<<<<<< Updated upstream
           <target state="translated">Typ</target>
+=======
+          <target>Typ</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Type - Property Caption</note>
         </trans-unit>
         <trans-unit id="Codeunit 2823483415 - Method 1208990500 - NamedType 3399729149" size-unit="char" translate="yes" xml:space="preserve">
           <source>Noch kein Buch eingegeben!</source>
+<<<<<<< Updated upstream
           <target state="translated">Noch kein Buch eingegeben!</target>
+=======
+          <target>Noch kein Buch eingegeben!</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB My Subscriber - Method OnAfterInsert_Customer_FavoriteBookHint - NamedType NoBookMessage1Msg</note>
         </trans-unit>
         <trans-unit id="Codeunit 2823483415 - Method 3989253393 - NamedType 2282603532" size-unit="char" translate="yes" xml:space="preserve">
           <source>Noch kein Buch eingegeben!</source>
+<<<<<<< Updated upstream
           <target state="translated">Noch kein Buch eingegeben!</target>
+=======
+          <target>Noch kein Buch eingegeben!</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB My Subscriber - Method OnAfterModify_Customer_FavoriteBookHint - NamedType NoBookMessage2Msg</note>
         </trans-unit>
         <trans-unit id="Page 1869352431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Map</source>
+<<<<<<< Updated upstream
           <target state="translated">Karte</target>
+=======
+          <target>Karte</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB BingMapsCardPart - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book Card</source>
+<<<<<<< Updated upstream
           <target state="translated">Buchkarte</target>
+=======
+          <target>Buchkarte</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>General</source>
+<<<<<<< Updated upstream
           <target state="translated">Allgemein</target>
+=======
+          <target>Allgemein</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control General - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 2842729223 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Author</source>
+<<<<<<< Updated upstream
           <target state="translated">Autor</target>
+=======
+          <target>Autor</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Author - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Blocked</source>
+<<<<<<< Updated upstream
           <target state="translated">Gesperrt</target>
+=======
+          <target>Gesperrt</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Blocked - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 1249475212 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Created</source>
+<<<<<<< Updated upstream
           <target state="translated">Erstellt am</target>
+=======
+          <target>Erstellt am</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Created - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Description</source>
+<<<<<<< Updated upstream
           <target state="translated">Beschreibung</target>
+=======
+          <target>Beschreibung</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 1328823306 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>ISBN</source>
+<<<<<<< Updated upstream
           <target state="translated">ISBN</target>
+=======
+          <target>ISBN</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control ISBN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 2393253273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Last Date Modified</source>
+<<<<<<< Updated upstream
           <target state="translated">Korrigiert am</target>
+=======
+          <target>Korrigiert am</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Last Date Modified - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>No.</source>
+<<<<<<< Updated upstream
           <target state="translated">Nr.</target>
+=======
+          <target>Nr.</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 1180181476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Search Description</source>
+<<<<<<< Updated upstream
           <target state="translated">Suchbegriff</target>
+=======
+          <target>Suchbegriff</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Search Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Type</source>
+<<<<<<< Updated upstream
           <target state="translated">Typ</target>
+=======
+          <target>Typ</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Type - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 1450094168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Invoicing</source>
+<<<<<<< Updated upstream
           <target state="translated">Fakturierung</target>
+=======
+          <target>Fakturierung</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Invoicing - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 2660161043 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Author Provision %</source>
+<<<<<<< Updated upstream
           <target state="translated">Autorprovision %</target>
+=======
+          <target>Autorprovision %</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Author Provision % - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 3202648555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Publishing</source>
+<<<<<<< Updated upstream
           <target state="translated">Veröffentlichung</target>
+=======
+          <target>Veröffentlichung</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Publishing - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 3598678408 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Date of Publishing</source>
+<<<<<<< Updated upstream
           <target state="translated">Veröffentlichungsdatum</target>
+=======
+          <target>Veröffentlichungsdatum</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Date of Publishing - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 871310557 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Edition No.</source>
+<<<<<<< Updated upstream
           <target state="translated">Editionsnr.</target>
+=======
+          <target>Editionsnr.</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Edition No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2961589650 - Control 2755520618 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>No. of Pages</source>
+<<<<<<< Updated upstream
           <target state="translated">Anzahkl Seiten</target>
+=======
+          <target>Anzahkl Seiten</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control No. of Pages - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 826345865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book Details</source>
+<<<<<<< Updated upstream
           <target state="translated">Buchdetails</target>
+=======
+          <target>Buchdetails</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Factbox - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 826345865 - Control 2842729223 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Author field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Author field.</target>
+=======
+          <target>Specifies the value of the Author field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Factbox - Control Author - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 826345865 - Control 3598678408 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Date op Publishing field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Date op Publishing field.</target>
+=======
+          <target>Specifies the value of the Date op Publishing field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Factbox - Control Date of Publishing - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 826345865 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Description field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Description field.</target>
+=======
+          <target>Specifies the value of the Description field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Factbox - Control Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 826345865 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book Description</source>
+<<<<<<< Updated upstream
           <target state="translated">Buchbeschreibung</target>
+=======
+          <target>Buchbeschreibung</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Factbox - Control Description - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 826345865 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the No. field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the No. field.</target>
+=======
+          <target>Specifies the value of the No. field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Factbox - Control No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 826345865 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book No.</source>
+<<<<<<< Updated upstream
           <target state="translated">Buchnr.</target>
+=======
+          <target>Buchnr.</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Factbox - Control No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 826345865 - Control 2755520618 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the No. of Pages field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the No. of Pages field.</target>
+=======
+          <target>Specifies the value of the No. of Pages field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Factbox - Control No. of Pages - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Books</source>
+<<<<<<< Updated upstream
           <target state="translated">Bücher</target>
+=======
+          <target>Bücher</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 2842729223 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Author field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Author field.</target>
+=======
+          <target>Specifies the value of the Author field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control Author - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 2660161043 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Author Provision % field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Author Provision % field.</target>
+=======
+          <target>Specifies the value of the Author Provision % field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control Author Provision % - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Blocked field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Blocked field.</target>
+=======
+          <target>Specifies the value of the Blocked field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control Blocked - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 1249475212 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Created field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Created field.</target>
+=======
+          <target>Specifies the value of the Created field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control Created - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 3598678408 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Date op Publishing field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Date op Publishing field.</target>
+=======
+          <target>Specifies the value of the Date op Publishing field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control Date of Publishing - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Description field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Description field.</target>
+=======
+          <target>Specifies the value of the Description field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 871310557 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Edition No. field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Edition No. field.</target>
+=======
+          <target>Specifies the value of the Edition No. field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control Edition No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 1328823306 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the ISBN field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the ISBN field.</target>
+=======
+          <target>Specifies the value of the ISBN field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control ISBN - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 2393253273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Last Date Modified field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Last Date Modified field.</target>
+=======
+          <target>Specifies the value of the Last Date Modified field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control Last Date Modified - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the No. field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the No. field.</target>
+=======
+          <target>Specifies the value of the No. field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 2755520618 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the No. of Pages field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the No. of Pages field.</target>
+=======
+          <target>Specifies the value of the No. of Pages field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control No. of Pages - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 1180181476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Search Description field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Search Description field.</target>
+=======
+          <target>Specifies the value of the Search Description field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control Search Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 577209412 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the SystemCreatedAt field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the SystemCreatedAt field.</target>
+=======
+          <target>Specifies the value of the SystemCreatedAt field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control SystemCreatedAt - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 4000648066 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the SystemCreatedBy field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the SystemCreatedBy field.</target>
+=======
+          <target>Specifies the value of the SystemCreatedBy field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control SystemCreatedBy - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 1367528460 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the SystemId field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the SystemId field.</target>
+=======
+          <target>Specifies the value of the SystemId field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control SystemId - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 2453272523 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the SystemModifiedAt field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the SystemModifiedAt field.</target>
+=======
+          <target>Specifies the value of the SystemModifiedAt field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control SystemModifiedAt - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 4085837753 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the SystemModifiedBy field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the SystemModifiedBy field.</target>
+=======
+          <target>Specifies the value of the SystemModifiedBy field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control SystemModifiedBy - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834728084 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Type field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the Type field.</target>
+=======
+          <target>Specifies the value of the Type field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Control Type - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Report 2834728084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book List</source>
+<<<<<<< Updated upstream
           <target state="translated">Buchliste</target>
+=======
+          <target>Buchliste</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Report BSB Book List - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 2834728084 - ReportLayout 1940761377 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
           <source>Summary Book List</source>
+<<<<<<< Updated upstream
           <target state="translated">Summary Book List</target>
           <note from="Xliff Generator" annotates="general" priority="3">Report BSB Book List - ReportLayout Standard Layout Simple - Property Summary</note>
         </trans-unit>
         <trans-unit id="Report 2834728084 - ReportLayout 1940761377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cation Book List</source>
           <target state="translated">Cation Book List</target>
+=======
+          <target>Summary Book List</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BSB Book List - ReportLayout Standard Layout Simple - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 2834728084 - ReportLayout 1940761377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caption Book List</source>
+          <target>Caption Book List</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Report BSB Book List - ReportLayout Standard Layout Simple - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3166640549 - Control 690755111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bookstore</source>
+<<<<<<< Updated upstream
           <target state="translated">Buchshop</target>
+=======
+          <target>Buchshop</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension BSB Customer Card - Control BSB Bookstore - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3166640549 - Control 3584006676 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the BSB Favorite Book Description. field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the BSB Favorite Book Description. field.</target>
+=======
+          <target>Specifies the value of the BSB Favorite Book Description. field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension BSB Customer Card - Control BSB Favorite Book Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3166640549 - Control 2212262507 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the BSB Favorite Book No. field.</source>
+<<<<<<< Updated upstream
           <target state="translated">Specifies the value of the BSB Favorite Book No. field.</target>
+=======
+          <target>Specifies the value of the BSB Favorite Book No. field.</target>
+>>>>>>> Stashed changes
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension BSB Customer Card - Control BSB Favorite Book No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="TableExtension 1769397817 - Field 3584006676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>BSB Favorite Book Description</source>
+<<<<<<< Updated upstream
           <target state="translated">BSB Lieblingsbuch Beschreibung</target>
+=======
+          <target>BSB Lieblingsbuch Beschreibung</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSB Customer - Field BSB Favorite Book Description - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 1769397817 - Field 2212262507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>BSB Favorite Book No.</source>
+<<<<<<< Updated upstream
           <target state="translated">BSB Lieblingsbuch-Nr.</target>
+=======
+          <target>BSB Lieblingsbuch-Nr.</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSB Customer - Field BSB Favorite Book No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Profile 690755111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>BSB Bookstore</source>
+<<<<<<< Updated upstream
           <target state="translated">BSB Buchshop</target>
+=======
+          <target>BSB Buchshop</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Profile BSB Bookstore - Property Caption</note>
         </trans-unit>
         <trans-unit id="Profile 2503144671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>BSB Testrolle</source>
+<<<<<<< Updated upstream
           <target state="translated">BSB Testrolle</target>
+=======
+          <target>BSB Testrolle</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Profile BSB Test - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2962493187 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>None</source>
+<<<<<<< Updated upstream
           <target state="translated">Keine</target>
+=======
+          <target>Keine</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Enum BSB Book Option - EnumValue   - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2962493187 - EnumValue 3902073686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Hardcover</source>
+<<<<<<< Updated upstream
           <target state="translated">Hardcover</target>
+=======
+          <target>Hardcover</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Enum BSB Book Option - EnumValue Hardcover - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2962493187 - EnumValue 723394863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Paperback</source>
+<<<<<<< Updated upstream
           <target state="translated">Paperback</target>
+=======
+          <target>Paperback</target>
+>>>>>>> Stashed changes
           <note from="Xliff Generator" annotates="general" priority="3">Enum BSB Book Option - EnumValue Paperback - Property Caption</note>
         </trans-unit>
       </group>
