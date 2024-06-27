@@ -12,9 +12,16 @@ codeunit 50102 "BSB Notif. Subscriber Store"
 
 
     [EventSubscriber(ObjectType::Page, Page::"Sales Order", OnAfterGetCurrRecordEvent, '', true, true)]
-    local procedure CheckCompInfoComplete()
+    local procedure CheckCompInfoComplete(var Rec: Record "Sales Header")
+    var
+        Customer: Record Customer;
     begin
-        if (CompanyInformation.Name = '') OR (CompanyInformation."E-Mail" = '') then begin
+        if rec."Sell-to Customer No." = '' then
+            exit;
+
+        Customer.get(Rec."Sell-to Customer No.");
+        CompanyInformation.get();
+        if ((CompanyInformation.Name = '') OR (CompanyInformation."E-Mail" = '')) and MyNotifications.IsEnabledForRecord(CompInfoNotificationIDTxt, Customer) then begin
             CompInfoNotification."Id" := CompInfoNotificationIDTxt;
             CompInfoNotification.Scope := CompInfoNotification.Scope::LocalScope;
             CompInfoNotification.Message := strsubstno(
